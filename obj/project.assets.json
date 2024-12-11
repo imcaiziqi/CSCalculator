@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ritchie\\.nuget\\packages\\": {},
+    "Z:\\tools\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\Project\\cSharp\\calc_2022.5\\Calc\\Calc.csproj",
+      "projectName": "Calc",
+      "projectPath": "Z:\\Project\\cSharp\\calc_2022.5\\Calc\\Calc.csproj",
+      "packagesPath": "C:\\Users\\ritchie\\.nuget\\packages\\",
+      "outputPath": "Z:\\Project\\cSharp\\calc_2022.5\\Calc\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "Z:\\tools\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ritchie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
