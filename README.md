@@ -95,9 +95,11 @@ CSCalculator 是一个用 C# 开发的简易计算器应用程序，支持基本
 
 如果有任何问题，可以通过以下方式联系：
 
-- **微信公众号**: 云日记Journal
+- **邮箱**: imcaiziqi@gmail.com
 - **GitHub**: [imcaiziqi](https://github.com/imcaiziqi)
 
 ---
+关注 有更多有趣的故事，也可投稿哦！
+**微信公众号**: 云日记Journal
 
 感谢你使用 CSCalculator！
