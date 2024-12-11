@@ -68,7 +68,7 @@ CSCalculator 是一个用 C# 开发的简易计算器应用程序，支持基本
 
 - **操作系统**: Windows 10 或更高版本
 - **开发工具**: Visual Studio 2019
-- **框架版本**: .NET Framework 4.7.2 或更高
+- **框架版本**: .NET Framework 4.7.2 
 
 ---
 
